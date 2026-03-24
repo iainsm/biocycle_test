@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://iainsm.github.io/biocycle_test/sitemap.xml

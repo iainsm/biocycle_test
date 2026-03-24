@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>BioCycle Lab</title>
+    <link href="https://iainsm.github.io/biocycle_test/feed.xml" rel="self" />
+    <link href="https://iainsm.github.io/biocycle_test" />
+    <updated>2026-03-23T17:01:05-07:00</updated>
+    <author>
+        <name>ism</name>
+    </author>
+    <id>https://iainsm.github.io/biocycle_test</id>
+
+    <entry>
+        <title>Test 1</title>
+        <author>
+            <name>ism</name>
+        </author>
+        <link href="https://iainsm.github.io/biocycle_test/test-1/"/>
+        <id>https://iainsm.github.io/biocycle_test/test-1/</id>
+        <media:content url="https://iainsm.github.io/biocycle_test/media/posts/4/ocean.png" medium="image" />
+
+        <updated>2026-03-23T16:58:26-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://iainsm.github.io/biocycle_test/media/posts/4/ocean.png" alt="" />
+                    herhejhas
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://iainsm.github.io/biocycle_test/media/posts/4/ocean.png" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://iainsm.github.io/biocycle_test/media/posts/4/waste_reduction.png" height="434" width="710" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://iainsm.github.io/biocycle_test/media/posts/4/responsive/waste_reduction-xs.png 300w ,https://iainsm.github.io/biocycle_test/media/posts/4/responsive/waste_reduction-sm.png 480w ,https://iainsm.github.io/biocycle_test/media/posts/4/responsive/waste_reduction-md.png 768w ,https://iainsm.github.io/biocycle_test/media/posts/4/responsive/waste_reduction-lg.png 1024w">
+      
+    </figure>
+
+  <p>
+    herhejhas
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
