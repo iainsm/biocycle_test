@@ -3,39 +3,137 @@
     <title>BioCycle Lab</title>
     <link href="https://iainsm.github.io/biocycle_test/feed.xml" rel="self" />
     <link href="https://iainsm.github.io/biocycle_test" />
-    <updated>2026-03-23T17:01:05-07:00</updated>
+    <updated>2026-03-24T14:25:33-07:00</updated>
     <author>
         <name>ism</name>
     </author>
     <id>https://iainsm.github.io/biocycle_test</id>
 
     <entry>
-        <title>Test 1</title>
+        <title>Sustainable Carbon Use</title>
         <author>
             <name>ism</name>
         </author>
-        <link href="https://iainsm.github.io/biocycle_test/test-1/"/>
-        <id>https://iainsm.github.io/biocycle_test/test-1/</id>
-        <media:content url="https://iainsm.github.io/biocycle_test/media/posts/4/ocean.png" medium="image" />
+        <link href="https://iainsm.github.io/biocycle_test/sustainable-carbon-use/"/>
+        <id>https://iainsm.github.io/biocycle_test/sustainable-carbon-use/</id>
 
-        <updated>2026-03-23T16:58:26-07:00</updated>
+        <updated>2026-03-24T14:10:25-07:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://iainsm.github.io/biocycle_test/media/posts/4/ocean.png" alt="" />
-                    herhejhas
+                    Sustainable solutions for current global challenges, such as the carbon budget, circular&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://iainsm.github.io/biocycle_test/media/posts/4/ocean.png" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://iainsm.github.io/biocycle_test/media/posts/4/waste_reduction.png" height="434" width="710" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://iainsm.github.io/biocycle_test/media/posts/4/responsive/waste_reduction-xs.png 300w ,https://iainsm.github.io/biocycle_test/media/posts/4/responsive/waste_reduction-sm.png 480w ,https://iainsm.github.io/biocycle_test/media/posts/4/responsive/waste_reduction-md.png 768w ,https://iainsm.github.io/biocycle_test/media/posts/4/responsive/waste_reduction-lg.png 1024w">
+      <img loading="lazy" src="https://iainsm.github.io/biocycle_test/media/posts/12/laboratory-2815641.jpg" height="2000" width="3000" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://iainsm.github.io/biocycle_test/media/posts/12/responsive/laboratory-2815641-xs.jpg 300w ,https://iainsm.github.io/biocycle_test/media/posts/12/responsive/laboratory-2815641-sm.jpg 480w ,https://iainsm.github.io/biocycle_test/media/posts/12/responsive/laboratory-2815641-md.jpg 768w ,https://iainsm.github.io/biocycle_test/media/posts/12/responsive/laboratory-2815641-lg.jpg 1024w">
       
     </figure>
 
   <p>
-    herhejhas
+    Sustainable solutions for current global challenges, such as the carbon budget, circular economy, human health, and clean energy, through synthetic biology. My research program will focus on developing microbes as green cell factories with tailor-made catalysts that can convert biomass-derived feedstocks into fuels, valuable commodities, or pharmaceutical products. This research is centered around two short- term goals: 1) Developing designer catalysts via enzyme evolution to enhance the metabolic process and create new carbon sinks, and 2) Engineering green factories with designer catalysts that can simultaneously degrade lignocellulosic waste and produce valuable commodities. Over the next five years, my research program will prioritize the development of energy-efficient enzymes and improvements in metabolic engineering efforts to convert available biomass into valuable commodities, paving the way for sustainable chemistry.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://iainsm.github.io/biocycle_test/media/posts/12/sample_figure.png" height="234" width="230" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://iainsm.github.io/biocycle_test/media/posts/12/responsive/sample_figure-xs.png 300w ,https://iainsm.github.io/biocycle_test/media/posts/12/responsive/sample_figure-sm.png 480w ,https://iainsm.github.io/biocycle_test/media/posts/12/responsive/sample_figure-md.png 768w ,https://iainsm.github.io/biocycle_test/media/posts/12/responsive/sample_figure-lg.png 1024w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Machine-learning Assisted Design</title>
+        <author>
+            <name>ism</name>
+        </author>
+        <link href="https://iainsm.github.io/biocycle_test/machine-learning-assisted-design/"/>
+        <id>https://iainsm.github.io/biocycle_test/machine-learning-assisted-design/</id>
+
+        <updated>2026-03-24T14:09:15-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    One of our main goals is to expand the repertoire of enzymes&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    One of our main goals is to expand the repertoire of enzymes that can degrade plastics such as polystyrene. To generate and optimize new enzymes we will combine generative AI models to a high-throughput biological assay.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://iainsm.github.io/biocycle_test/media/posts/11/sample_figure1.png" height="234" width="230" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://iainsm.github.io/biocycle_test/media/posts/11/responsive/sample_figure1-xs.png 300w ,https://iainsm.github.io/biocycle_test/media/posts/11/responsive/sample_figure1-sm.png 480w ,https://iainsm.github.io/biocycle_test/media/posts/11/responsive/sample_figure1-md.png 768w ,https://iainsm.github.io/biocycle_test/media/posts/11/responsive/sample_figure1-lg.png 1024w">
+      
+    </figure>
+
+  <p>
+    One of our main goals is to expand the repertoire of enzymes that can degrade plastics such as polystyrene. To generate and optimize new enzymes we will combine generative AI models to a high-throughput biological assay.
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Metabolic Engineering for Waste Valorization</title>
+        <author>
+            <name>ism</name>
+        </author>
+        <link href="https://iainsm.github.io/biocycle_test/metabolic-engineering-for-waste-valorization/"/>
+        <id>https://iainsm.github.io/biocycle_test/metabolic-engineering-for-waste-valorization/</id>
+
+        <updated>2026-03-24T14:08:18-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    One of our main goals is to expand the repertoire of enzymes&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://iainsm.github.io/biocycle_test/media/posts/10/StockSnap_CHEZDDXUJY.jpg" height="4096" width="6144" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://iainsm.github.io/biocycle_test/media/posts/10/responsive/StockSnap_CHEZDDXUJY-xs.jpg 300w ,https://iainsm.github.io/biocycle_test/media/posts/10/responsive/StockSnap_CHEZDDXUJY-sm.jpg 480w ,https://iainsm.github.io/biocycle_test/media/posts/10/responsive/StockSnap_CHEZDDXUJY-md.jpg 768w ,https://iainsm.github.io/biocycle_test/media/posts/10/responsive/StockSnap_CHEZDDXUJY-lg.jpg 1024w">
+      
+    </figure>
+
+  <p>
+    One of our main goals is to expand the repertoire of enzymes that can degrade plastics such as polystyrene. To generate and optimize new enzymes we will combine generative AI models to a high-throughput biological assay.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Continuous Directed Evolution</title>
+        <author>
+            <name>ism</name>
+        </author>
+        <link href="https://iainsm.github.io/biocycle_test/continuous-directed-evolution/"/>
+        <id>https://iainsm.github.io/biocycle_test/continuous-directed-evolution/</id>
+
+        <updated>2026-03-24T14:06:21-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Using CDE, we are developing and improving plastic degradation and contributing toward&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Using CDE, we are developing and improving plastic degradation and contributing toward a green economy.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://iainsm.github.io/biocycle_test/media/posts/9/laboratory-2815641.jpg" height="2000" width="3000" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://iainsm.github.io/biocycle_test/media/posts/9/responsive/laboratory-2815641-xs.jpg 300w ,https://iainsm.github.io/biocycle_test/media/posts/9/responsive/laboratory-2815641-sm.jpg 480w ,https://iainsm.github.io/biocycle_test/media/posts/9/responsive/laboratory-2815641-md.jpg 768w ,https://iainsm.github.io/biocycle_test/media/posts/9/responsive/laboratory-2815641-lg.jpg 1024w">
+      
+    </figure>
+
+  <p>
+    Find out more here
   </p>
             ]]>
         </content>
