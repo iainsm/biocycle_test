@@ -11,18 +11,33 @@
     },
     "items": [
         {
+            "id": "https://iainsm.github.io/biocycle_test/test-post/",
+            "url": "https://iainsm.github.io/biocycle_test/test-post/",
+            "title": "Test post",
+            "summary": "Desciption here Description here Jaya Joshi, Principal Investigator Jaya Joshi is a&hellip;",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.9407%;\"><figure class=\"post__image\"><img loading=\"lazy\"  style=\"outline: rgba(13, 139, 242, 0.55) solid 2.49351px !important;\" src=\"https://iainsm.github.io/biocycle_test/media/posts/13/1664375215323.jpg\" alt=\"\" width=\"333\" height=\"328\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-xs.jpg 300w ,https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-sm.jpg 480w ,https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-md.jpg 768w ,https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-lg.jpg 1024w\"></figure></td>\n<td style=\"width: 49.9407%;\"><figure class=\"post__image\"><img loading=\"lazy\"  style=\"outline: rgba(13, 139, 242, 0.55) solid 2.49351px !important;\" src=\"https://iainsm.github.io/biocycle_test/media/posts/13/1664375215323.jpg\" alt=\"\" width=\"333\" height=\"328\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-xs.jpg 300w ,https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-sm.jpg 480w ,https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-md.jpg 768w ,https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-lg.jpg 1024w\"></figure></td>\n</tr>\n<tr>\n<td style=\"width: 49.9407%;\">Desciption here</td>\n<td style=\"width: 49.9407%;\">Description here</td>\n</tr>\n<tr>\n<td style=\"width: 49.9407%;\"><figure class=\"post__image\"><img loading=\"lazy\"  style=\"outline: rgba(13, 139, 242, 0.55) solid 2.49351px !important;\" src=\"https://iainsm.github.io/biocycle_test/media/posts/13/1664375215323.jpg\" alt=\"\" width=\"333\" height=\"328\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-xs.jpg 300w ,https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-sm.jpg 480w ,https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-md.jpg 768w ,https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-lg.jpg 1024w\"></figure></td>\n<td style=\"width: 49.9407%;\"><figure class=\"post__image\"><img loading=\"lazy\"  style=\"outline: rgba(13, 139, 242, 0.55) solid 2.49351px !important;\" src=\"https://iainsm.github.io/biocycle_test/media/posts/13/1664375215323.jpg\" alt=\"\" width=\"333\" height=\"328\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-xs.jpg 300w ,https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-sm.jpg 480w ,https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-md.jpg 768w ,https://iainsm.github.io/biocycle_test/media/posts/13/responsive/1664375215323-lg.jpg 1024w\"></figure></td>\n</tr>\n<tr>\n<td style=\"width: 49.9407%;\">\n<h2 class=\"list-item-content__title\" style=\"margin-top: 2.28571rem; color: #02192b; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-weight: bold; letter-spacing: -0.54px; font-size: 1.60181em;\">Jaya Joshi, Principal Investigator</h2>\n<div class=\"list-item-content__description\n          \n          \">\n<p class=\"\" data-rte-preserve-empty=\"true\">Jaya Joshi is a synthetic biologist interested in the directed evolution of enzymes to transform inefficient designer biocatalysts into highly active enzymes. Her research walks through enzyme design space: exploring fitness landscapes for radical metabolic engineering design ideas, guided by the aim of successful implementation of carbon farming by 2050.</p>\n</div>\n</td>\n<td style=\"width: 49.9407%;\">Description here</td>\n</tr>\n<tr>\n<td style=\"width: 49.9407%;\"> </td>\n<td style=\"width: 49.9407%;\"> </td>\n</tr>\n</tbody>\n</table>\n<p>  </p>",
+            "author": {
+                "name": "ism"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-24T15:46:47-07:00",
+            "date_modified": "2026-03-24T15:46:47-07:00"
+        },
+        {
             "id": "https://iainsm.github.io/biocycle_test/sustainable-carbon-use/",
             "url": "https://iainsm.github.io/biocycle_test/sustainable-carbon-use/",
             "title": "Sustainable Carbon Use",
             "summary": "Sustainable solutions for current global challenges, such as the carbon budget, circular&hellip;",
             "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://iainsm.github.io/biocycle_test/media/posts/12/laboratory-2815641.jpg\" height=\"2000\" width=\"3000\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://iainsm.github.io/biocycle_test/media/posts/12/responsive/laboratory-2815641-xs.jpg 300w ,https://iainsm.github.io/biocycle_test/media/posts/12/responsive/laboratory-2815641-sm.jpg 480w ,https://iainsm.github.io/biocycle_test/media/posts/12/responsive/laboratory-2815641-md.jpg 768w ,https://iainsm.github.io/biocycle_test/media/posts/12/responsive/laboratory-2815641-lg.jpg 1024w\">\n      \n    </figure>\n\n  <p>\n    Sustainable solutions for current global challenges, such as the carbon budget, circular economy, human health, and clean energy, through synthetic biology. My research program will focus on developing microbes as green cell factories with tailor-made catalysts that can convert biomass-derived feedstocks into fuels, valuable commodities, or pharmaceutical products. This research is centered around two short- term goals: 1) Developing designer catalysts via enzyme evolution to enhance the metabolic process and create new carbon sinks, and 2) Engineering green factories with designer catalysts that can simultaneously degrade lignocellulosic waste and produce valuable commodities. Over the next five years, my research program will prioritize the development of energy-efficient enzymes and improvements in metabolic engineering efforts to convert available biomass into valuable commodities, paving the way for sustainable chemistry.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://iainsm.github.io/biocycle_test/media/posts/12/sample_figure.png\" height=\"234\" width=\"230\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://iainsm.github.io/biocycle_test/media/posts/12/responsive/sample_figure-xs.png 300w ,https://iainsm.github.io/biocycle_test/media/posts/12/responsive/sample_figure-sm.png 480w ,https://iainsm.github.io/biocycle_test/media/posts/12/responsive/sample_figure-md.png 768w ,https://iainsm.github.io/biocycle_test/media/posts/12/responsive/sample_figure-lg.png 1024w\">\n      \n    </figure>",
+            "image": "https://iainsm.github.io/biocycle_test/media/posts/12/laboratory-2815641-2.jpg",
             "author": {
                 "name": "ism"
             },
             "tags": [
             ],
             "date_published": "2026-03-24T14:10:25-07:00",
-            "date_modified": "2026-03-24T14:25:01-07:00"
+            "date_modified": "2026-03-24T15:39:52-07:00"
         },
         {
             "id": "https://iainsm.github.io/biocycle_test/machine-learning-assisted-design/",
@@ -30,13 +45,14 @@
             "title": "Machine-learning Assisted Design",
             "summary": "One of our main goals is to expand the repertoire of enzymes&hellip;",
             "content_html": "\n  <p>\n    One of our main goals is to expand the repertoire of enzymes that can degrade plastics such as polystyrene. To generate and optimize new enzymes we will combine generative AI models to a high-throughput biological assay.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://iainsm.github.io/biocycle_test/media/posts/11/sample_figure1.png\" height=\"234\" width=\"230\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://iainsm.github.io/biocycle_test/media/posts/11/responsive/sample_figure1-xs.png 300w ,https://iainsm.github.io/biocycle_test/media/posts/11/responsive/sample_figure1-sm.png 480w ,https://iainsm.github.io/biocycle_test/media/posts/11/responsive/sample_figure1-md.png 768w ,https://iainsm.github.io/biocycle_test/media/posts/11/responsive/sample_figure1-lg.png 1024w\">\n      \n    </figure>\n\n  <p>\n    One of our main goals is to expand the repertoire of enzymes that can degrade plastics such as polystyrene. To generate and optimize new enzymes we will combine generative AI models to a high-throughput biological assay.\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://iainsm.github.io/biocycle_test/media/posts/11/StockSnap_CHEZDDXUJY.jpg",
             "author": {
                 "name": "ism"
             },
             "tags": [
             ],
             "date_published": "2026-03-24T14:09:15-07:00",
-            "date_modified": "2026-03-24T14:25:20-07:00"
+            "date_modified": "2026-03-24T15:40:22-07:00"
         },
         {
             "id": "https://iainsm.github.io/biocycle_test/metabolic-engineering-for-waste-valorization/",
@@ -44,13 +60,14 @@
             "title": "Metabolic Engineering for Waste Valorization",
             "summary": "One of our main goals is to expand the repertoire of enzymes&hellip;",
             "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://iainsm.github.io/biocycle_test/media/posts/10/StockSnap_CHEZDDXUJY.jpg\" height=\"4096\" width=\"6144\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://iainsm.github.io/biocycle_test/media/posts/10/responsive/StockSnap_CHEZDDXUJY-xs.jpg 300w ,https://iainsm.github.io/biocycle_test/media/posts/10/responsive/StockSnap_CHEZDDXUJY-sm.jpg 480w ,https://iainsm.github.io/biocycle_test/media/posts/10/responsive/StockSnap_CHEZDDXUJY-md.jpg 768w ,https://iainsm.github.io/biocycle_test/media/posts/10/responsive/StockSnap_CHEZDDXUJY-lg.jpg 1024w\">\n      \n    </figure>\n\n  <p>\n    One of our main goals is to expand the repertoire of enzymes that can degrade plastics such as polystyrene. To generate and optimize new enzymes we will combine generative AI models to a high-throughput biological assay.\n  </p>",
+            "image": "https://iainsm.github.io/biocycle_test/media/posts/10/StockSnap_FVQTQP2VRU.jpg",
             "author": {
                 "name": "ism"
             },
             "tags": [
             ],
             "date_published": "2026-03-24T14:08:18-07:00",
-            "date_modified": "2026-03-24T14:25:27-07:00"
+            "date_modified": "2026-03-24T15:40:41-07:00"
         },
         {
             "id": "https://iainsm.github.io/biocycle_test/continuous-directed-evolution/",
@@ -58,13 +75,14 @@
             "title": "Continuous Directed Evolution",
             "summary": "Using CDE, we are developing and improving plastic degradation and contributing toward&hellip;",
             "content_html": "\n  <p>\n    Using CDE, we are developing and improving plastic degradation and contributing toward a green economy.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://iainsm.github.io/biocycle_test/media/posts/9/laboratory-2815641.jpg\" height=\"2000\" width=\"3000\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://iainsm.github.io/biocycle_test/media/posts/9/responsive/laboratory-2815641-xs.jpg 300w ,https://iainsm.github.io/biocycle_test/media/posts/9/responsive/laboratory-2815641-sm.jpg 480w ,https://iainsm.github.io/biocycle_test/media/posts/9/responsive/laboratory-2815641-md.jpg 768w ,https://iainsm.github.io/biocycle_test/media/posts/9/responsive/laboratory-2815641-lg.jpg 1024w\">\n      \n    </figure>\n\n  <p>\n    Find out more here\n  </p>",
+            "image": "https://iainsm.github.io/biocycle_test/media/posts/9/plant-8338691.jpg",
             "author": {
                 "name": "ism"
             },
             "tags": [
             ],
             "date_published": "2026-03-24T14:06:21-07:00",
-            "date_modified": "2026-03-24T14:25:33-07:00"
+            "date_modified": "2026-03-24T15:40:54-07:00"
         }
     ]
 }
