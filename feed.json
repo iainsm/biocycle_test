@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "BioCycle Lab",
     "description": "",
-    "home_page_url": "https://iainsm.github.io/biocycle_test",
-    "feed_url": "https://iainsm.github.io/biocycle_test/feed.json",
+    "home_page_url": "https://biocycle_test",
+    "feed_url": "https://biocycle_test/feed.json",
     "user_comment": "",
-    "icon": "https://iainsm.github.io/biocycle_test/media/website/biocycle_logo_green.png",
+    "icon": "https://biocycle_test/media/website/biocycle_logo_green.png",
     "author": {
         "name": "ism"
     },
     "items": [
         {
-            "id": "https://iainsm.github.io/biocycle_test/test-1/",
-            "url": "https://iainsm.github.io/biocycle_test/test-1/",
+            "id": "https://biocycle_test/test-1/",
+            "url": "https://biocycle_test/test-1/",
             "title": "Test 1",
             "summary": "herhejhas",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://iainsm.github.io/biocycle_test/media/posts/4/waste_reduction.png\" height=\"434\" width=\"710\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://iainsm.github.io/biocycle_test/media/posts/4/responsive/waste_reduction-xs.png 300w ,https://iainsm.github.io/biocycle_test/media/posts/4/responsive/waste_reduction-sm.png 480w ,https://iainsm.github.io/biocycle_test/media/posts/4/responsive/waste_reduction-md.png 768w ,https://iainsm.github.io/biocycle_test/media/posts/4/responsive/waste_reduction-lg.png 1024w\">\n      \n    </figure>\n\n  <p>\n    herhejhas\n  </p>",
-            "image": "https://iainsm.github.io/biocycle_test/media/posts/4/ocean.png",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://biocycle_test/media/posts/4/waste_reduction.png\" height=\"434\" width=\"710\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://biocycle_test/media/posts/4/responsive/waste_reduction-xs.png 300w ,https://biocycle_test/media/posts/4/responsive/waste_reduction-sm.png 480w ,https://biocycle_test/media/posts/4/responsive/waste_reduction-md.png 768w ,https://biocycle_test/media/posts/4/responsive/waste_reduction-lg.png 1024w\">\n      \n    </figure>\n\n  <p>\n    herhejhas\n  </p>",
+            "image": "https://biocycle_test/media/posts/4/ocean.png",
             "author": {
                 "name": "ism"
             },
